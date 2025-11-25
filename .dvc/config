@@ -1,0 +1,8 @@
+[core]
+    remote = dagshub-s3
+['remote "dagshub-s3"']
+    url = s3://betopia-task-7
+    endpointurl = https://dagshub.com/api/v1/repo-buckets/s3/MohammoD2
+    access_key_id = 5cd659763bb8e53abe56bf659b527afffe0e7935
+    secret_access_key = 5cd659763bb8e53abe56bf659b527afffe0e7935
+    region = us-east-1
