@@ -1,0 +1,12 @@
+digest: '61203511'
+name: dataset
+profile: '{"num_rows": 6400, "num_elements": 44800}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "engagement", "required":
+  true}, {"type": "long", "name": "company_size", "required": true}, {"type": "double",
+  "name": "industry_risk", "required": true}, {"type": "double", "name": "days_since_contact",
+  "required": true}, {"type": "double", "name": "source_quality", "required": true},
+  {"type": "double", "name": "product_fit", "required": true}, {"type": "double",
+  "name": "true_prob", "required": true}]}'
+source: '{"tags": {"mlflow.user": "User", "mlflow.source.name": "src\\train_baseline.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "0695d6b6793934c44193e5a4da1aa4322b04161d"}}'
+source_type: code

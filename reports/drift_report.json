@@ -1,0 +1,52 @@
+{
+  "ks_alpha": 0.05,
+  "psi_alert_threshold": 0.1,
+  "prediction_psi_threshold": 0.2,
+  "feature_drift": [
+    {
+      "feature": "engagement",
+      "ks_stat": 0.0078125,
+      "ks_pvalue": 0.9897661132689344,
+      "psi": 0.0009180765142259023
+    },
+    {
+      "feature": "company_size",
+      "ks_stat": 0.0028125,
+      "ks_pvalue": 0.9999999999999997,
+      "psi": 3.164696682165593e-05
+    },
+    {
+      "feature": "industry_risk",
+      "ks_stat": 0.0059375,
+      "ks_pvalue": 0.9998675086818593,
+      "psi": 0.0008344772142318582
+    },
+    {
+      "feature": "days_since_contact",
+      "ks_stat": 0.00484375,
+      "ks_pvalue": 0.9999993364683082,
+      "psi": 0.0002092918260503785
+    },
+    {
+      "feature": "source_quality",
+      "ks_stat": 0.00609375,
+      "ks_pvalue": 0.9997753660728744,
+      "psi": 0.000622835823977332
+    },
+    {
+      "feature": "product_fit",
+      "ks_stat": 0.00859375,
+      "ks_pvalue": 0.9721457952980019,
+      "psi": 0.000739565361299912
+    },
+    {
+      "feature": "true_prob",
+      "ks_stat": 0.00953125,
+      "ks_pvalue": 0.9333056472007415,
+      "psi": 0.0007794828464241308
+    }
+  ],
+  "flagged_features": [],
+  "prediction_drift": 11.484422306220706,
+  "prediction_drift_alert": true
+}

@@ -1,0 +1,33 @@
+artifact_path: file:///D:/Work%20file/Betopia-Task/Task-7/mlruns/650829376333825057/models/m-796f91236d27496696d9a5908d820690/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-796f91236d27496696d9a5908d820690
+model_size_bytes: 298294
+model_uuid: m-796f91236d27496696d9a5908d820690
+prompts: null
+run_id: 852c09e8b944499cad18f84fbb7f976d
+signature:
+  inputs: '[{"type": "double", "name": "engagement", "required": true}, {"type": "long",
+    "name": "company_size", "required": true}, {"type": "double", "name": "industry_risk",
+    "required": true}, {"type": "double", "name": "days_since_contact", "required":
+    true}, {"type": "double", "name": "source_quality", "required": true}, {"type":
+    "double", "name": "product_fit", "required": true}, {"type": "double", "name":
+    "true_prob", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-25 07:28:55.931411'

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Work%20file/Betopia-Task/Task-7/mlruns/650829376333825057/852c09e8b944499cad18f84fbb7f976d/artifacts
+end_time: 1764055818077
+entry_point_name: ''
+experiment_id: '650829376333825057'
+lifecycle_stage: active
+run_id: 852c09e8b944499cad18f84fbb7f976d
+run_name: capable-bird-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764055672497
+status: 3
+tags: []
+user_id: User

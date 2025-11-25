@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Work%20file/Betopia-Task/Task-7/mlruns/650829376333825057/da6a2ec44c5f45e5934916df2bd2e5bf/artifacts
+end_time: 1764055817751
+entry_point_name: ''
+experiment_id: '650829376333825057'
+lifecycle_stage: active
+run_id: da6a2ec44c5f45e5934916df2bd2e5bf
+run_name: efficient-toad-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764055672497
+status: 3
+tags: []
+user_id: User

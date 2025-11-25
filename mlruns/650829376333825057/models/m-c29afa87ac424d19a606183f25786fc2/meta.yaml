@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Work%20file/Betopia-Task/Task-7/mlruns/650829376333825057/models/m-c29afa87ac424d19a606183f25786fc2/artifacts
+creation_timestamp: 1764055815212
+experiment_id: '650829376333825057'
+last_updated_timestamp: 1764055817731
+model_id: m-c29afa87ac424d19a606183f25786fc2
+model_type: null
+name: best_estimator
+source_run_id: 852c09e8b944499cad18f84fbb7f976d
+status: 2
+status_message: null

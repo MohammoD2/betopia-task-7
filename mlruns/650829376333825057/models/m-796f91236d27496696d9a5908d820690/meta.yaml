@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Work%20file/Betopia-Task/Task-7/mlruns/650829376333825057/models/m-796f91236d27496696d9a5908d820690/artifacts
+creation_timestamp: 1764055735783
+experiment_id: '650829376333825057'
+last_updated_timestamp: 1764055807886
+model_id: m-796f91236d27496696d9a5908d820690
+model_type: null
+name: model
+source_run_id: 852c09e8b944499cad18f84fbb7f976d
+status: 2
+status_message: null
