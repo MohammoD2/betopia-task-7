@@ -1,0 +1,6 @@
+outs:
+- md5: 4e6a7d4d7e704fc9765142d107a6d1ef.dir
+  size: 1061675
+  nfiles: 1
+  hash: md5
+  path: crm_feedback
